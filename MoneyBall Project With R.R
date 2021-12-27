@@ -103,17 +103,3 @@ poss.players[2:4,]
 
 #Salaries of the 3 best possible players on our selected parameters
 sum(poss.players[2:4,]$salary)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
